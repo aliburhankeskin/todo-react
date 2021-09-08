@@ -1,0 +1,19 @@
+html body {
+  cursor: context-menu;
+}
+.App {
+  backdrop-filter: blur(60px);
+}
+.ms-lg2 {
+  height: 89.9vh;
+}
+.flex {
+  display: flex;
+}
+.ms-lg10 {
+  height: 89vh;
+  border-left: 1px solid rgba(113 119 144 / 20%);
+  border-radius: 40px 0 0 0;
+  backdrop-filter: blur(70px);
+  background: rgba(0, 0, 0, 0.254);
+}
